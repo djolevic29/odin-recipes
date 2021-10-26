@@ -1,0 +1,1 @@
+This project will include cooking recipes, as inspired from The Odin Project. 
