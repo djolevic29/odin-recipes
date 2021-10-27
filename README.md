@@ -1,1 +1,1 @@
-This project will include cooking recipes, as inspired from The Odin Project. 
+This project will include cooking recipes, as inspired from The Odin Project. /n Some of the projects include steak, souvlaki, & lasagna. 
