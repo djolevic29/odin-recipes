@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    background-color: bisque;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+body {
+    color:blanchedalmond;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    color:blanchedalmond;
+}
+
+ol {
+    color:blanchedalmond;
+}
